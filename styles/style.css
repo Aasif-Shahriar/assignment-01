@@ -557,7 +557,6 @@ footer {
   width: 1350px;
   margin: 0 auto;
 }
-.footer-logo > img {
+.footer-logo > a {
   margin-right: 15px;
-  cursor: pointer;
 }
