@@ -11,8 +11,6 @@
   padding: 0 190px 40px;
 }
 
-
-
 /* Nav styles */
 header > nav > ul {
   display: flex;
@@ -489,6 +487,7 @@ background: rgb(255, 194, 57);
   padding: 20px 38px;
   cursor: pointer;
 }
+
 .donate-btn > button:hover{
   transition: .4s;
   opacity: 0.7;
