@@ -85,6 +85,7 @@ ul> .nav-btn:hover{
   background: rgb(0, 106, 80);
   color: white;
   font-weight: 600;
+  font-size: 22px;
 }
 .banner-details .banner-btn:hover{
   transition: .4s;
@@ -435,6 +436,9 @@ background: rgb(255, 194, 57);
   background: rgb(255, 255, 255);
   padding: 48px;
   cursor: pointer;
+}
+.fixed-bgc{
+  background-color: rgb(198, 228, 214);
 }
 .donate-boxes:hover {
   background-color: rgb(198, 228, 214);
